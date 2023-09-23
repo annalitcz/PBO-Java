@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class LuasSegitiga {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         double Luas, alas, tinggi;
 
         Scanner keyboard = new Scanner(System.in);
