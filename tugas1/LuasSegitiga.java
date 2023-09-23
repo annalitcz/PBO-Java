@@ -16,7 +16,7 @@ public class LuasSegitiga {
         Luas = (alas * tinggi) / 2;
 
         String formatLuas = String.format("%.2f", Luas);
-        System.out.println("Luas segitiga adalah " + formatLuas + "cm2");
+        System.out.println("Luas segitiga adalah " + formatLuas + " cm2");
     }
 }
 /*

@@ -12,6 +12,12 @@ public class VolumeBola {
 
         volume = (4.0 / 3.0) * Math.PI * Math.pow(r, 3);
         String formatVolume = String.format("%.2f", volume);
-        System.out.println("Volume Bola adalah: " + formatVolume + "cm3");
+        System.out.println("Volume Bola adalah: " + formatVolume + " cm3");
     }
 }
+/*
+ * Nama: Mohammmad Annan Makruf Mustofa
+ * NPM: 2113030041
+ * kelas: Sistem Informasi 3D
+ * Matkul: PBO
+ */

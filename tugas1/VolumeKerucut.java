@@ -17,3 +17,9 @@ public class VolumeKerucut {
         System.out.println("Volume kerucut adalah " + formatVolume + " cm3");
     }
 }
+/*
+ * Nama: Mohammmad Annan Makruf Mustofa
+ * NPM: 2113030041
+ * kelas: Sistem Informasi 3D
+ * Matkul: PBO
+ */

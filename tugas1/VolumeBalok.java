@@ -6,11 +6,11 @@ public class VolumeBalok {
 
         Scanner keyboard = new Scanner(System.in);
         System.out.println("\tMenghitung Volume Balok");
-        System.out.print("masukkan panjang balok: ");
+        System.out.print("masukkan panjang: ");
         p = keyboard.nextInt();
-        System.out.print("masukkan lebar kubus: ");
+        System.out.print("masukkan lebar: ");
         l = keyboard.nextInt();
-        System.out.print("masukkan tinggi balok: ");
+        System.out.print("masukkan tinggi: ");
         t = keyboard.nextInt();
         keyboard.close();
 
@@ -18,3 +18,9 @@ public class VolumeBalok {
         System.out.println("Volume balok adalah " + volume + " cm3");
     }
 }
+/*
+ * Nama: Mohammmad Annan Makruf Mustofa
+ * NPM: 2113030041
+ * kelas: Sistem Informasi 3D
+ * Matkul: PBO
+ */

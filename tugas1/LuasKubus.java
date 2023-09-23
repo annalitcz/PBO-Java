@@ -12,7 +12,7 @@ public class LuasKubus {
 
         luas = 6 * Math.pow(s, 2);
         String formatLuas = String.format("%.2f", luas);
-        System.out.println("Luas kubus adalah " + formatLuas + "cm2");
+        System.out.println("Luas kubus adalah " + formatLuas + " cm2");
     }
 }
 /*
