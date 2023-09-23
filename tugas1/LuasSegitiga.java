@@ -6,6 +6,7 @@ public class LuasSegitiga {
 
         Scanner keyboard = new Scanner(System.in);
 
+        System.out.println("\tMenghitung Luas Segitiga");
         System.out.print("Masukkan panjang alas: ");
         alas = keyboard.nextDouble();
         System.out.print("Masukkan Tinggi: ");
@@ -14,8 +15,8 @@ public class LuasSegitiga {
 
         Luas = (alas * tinggi) / 2;
 
-        String formattedLuas = String.format("%.2f", Luas);
-        System.out.println("luas segitiga adalah " + formattedLuas + "cm");
+        String formatLuas = String.format("%.2f", Luas);
+        System.out.println("Luas segitiga adalah " + formatLuas + "cm2");
     }
 }
 /*

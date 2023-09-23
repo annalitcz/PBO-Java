@@ -5,13 +5,14 @@ public class LuasKubus {
         double luas, s;
 
         Scanner keyboard = new Scanner(System.in);
+        System.out.println("\tMenghitung Luas Kubus");
         System.out.print("Masukkan Panjang sisi: ");
         s = keyboard.nextFloat();
         keyboard.close();
 
         luas = 6 * Math.pow(s, 2);
-        String formattedLuas = String.format("%.2f", luas);
-        System.out.println("luas segitiga adalah " + formattedLuas + "cm");
+        String formatLuas = String.format("%.2f", luas);
+        System.out.println("Luas kubus adalah " + formatLuas + "cm2");
     }
 }
 /*
