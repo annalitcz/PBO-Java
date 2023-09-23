@@ -1,6 +1,6 @@
 # PBO Java
 
-<img src="https://i.pinimg.com/564x/e3/4c/fb/e34cfbf730db85b1cabda633363eaf7b.jpg" width="300" height="200">
+<img src="https://i.pinimg.com/564x/e3/4c/fb/e34cfbf730db85b1cabda633363eaf7b.jpg" alt="Anime" align="middle" height="200" width="200" style="vertical-align: middle;">
 
 ini adalah repository kumpulan tugas Pemrograman Berorientasi Objek milikku.
 
